@@ -3,7 +3,9 @@
 ## Introduction
 Welcome to the Maven Coffee Challenge! This README provides an overview of the data-driven strategy crafted for Maven Coffee's entry into the US coffee market. Leveraging insights from "The Great American Coffee Taste Test," this report outlines key recommendations to guide Maven Coffee's journey to success.
 
-![Image](Home.png)
+
+![Home](https://github.com/MelatKebedeAbraham/Maven-Coffee-Challenge/assets/132658597/91a86736-1fa3-487f-aa64-30d4b51b6966)
+
 
 ## Key Sections
 
